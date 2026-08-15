@@ -6,3 +6,4 @@ data/
 *.engine
 checkpoints/
 .venv/
+external/
